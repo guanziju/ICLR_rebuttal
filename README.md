@@ -16,4 +16,4 @@ DEE frontier at probing resolutions b = 128, 256 and 512. Circles mark the budge
 
 ![Figure C](figures/fig_c_methods_vs_frontiers.png)
 
-Nine online methods and the oracle frontier of their class (black); the gray curves are the frontiers of the other two classes. Open markers: all tested settings; the lines joining them are a visual guide. Filled markers: settings selected on development data. Methods marked * were added in the response. [PDF](figures/fig_c_methods_vs_frontiers.pdf)
+Nine online methods and the oracle frontier of their class (black); the gray curves are the frontiers of the other two classes. Frontiers are plotted against the budget cap, methods against their actual cost. Open markers: all tested settings; the lines joining them are a visual guide. Filled markers: settings selected on development data. Methods marked * were added in the response. [PDF](figures/fig_c_methods_vs_frontiers.pdf)
